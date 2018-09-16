@@ -1,5 +1,5 @@
 _repo: La-Biblia-en-Espana-Tomo-III-de-3-O-viajes-aventuras-y-prisiones-de-un-ingles-en-su-intento-d__51689
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Azaña, Manuel
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '48926'
     url: http://www.gutenberg.org/2009/agents/48926
+covers:
+- cover_type: archival
+  image_path: 51689-h/images/cover.jpg
 creator:
   author:
     agent_name: Borrow, George
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4383
     wikipedia: http://en.wikipedia.org/wiki/George_Borrow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51689#La-Biblia-en-Espana-Tomo-III-de-3-O-viajes-aventuras-y-prisiones-de-un-ingles-en-su-intento-d_
 gutenberg_issued: '2016-04-08'
 gutenberg_type: Text
 identifiers:
