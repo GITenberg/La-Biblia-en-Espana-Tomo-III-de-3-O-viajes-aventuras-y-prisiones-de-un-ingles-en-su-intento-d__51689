@@ -1,0 +1,41 @@
+_repo: La-Biblia-en-Espana-Tomo-III-de-3-O-viajes-aventuras-y-prisiones-de-un-ingles-en-su-intento-d__51689
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Azaña, Manuel
+    aliases:
+    - Díaz, Manuel Azaña y
+    - Diaz, Manuel Azana y
+    birthdate: 1880
+    deathdate: 1940
+    gutenberg_agent_id: '48926'
+    url: http://www.gutenberg.org/2009/agents/48926
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: ''
+gutenberg_issued: '2016-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51689'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Spain -- Description and travel'
+- !lcsh 'Spain -- History -- 19th century'
+- !lcsh 'Borrow, George, 1803-1881 -- Travel -- Spain'
+- GITenberg
+title: 'La Biblia en España, Tomo III (de 3)
+
+  O viajes, aventuras y prisiones de un inglés en su intento de difundir las Escrituras
+  por la Península'
+url: http://www.gutenberg.org/ebooks/51689
